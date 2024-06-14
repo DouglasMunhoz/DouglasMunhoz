@@ -15,6 +15,9 @@
   <img align="center" alt="Munhoz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Munhoz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Muhoz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Munhoz-Node" height="30" width="40" src="https://nodejs.org/static/images/logo.svg">
+  <img align="center" alt="Munhoz-Node" height="30" width="40" 
+src="https://nodejs.org/static/images/logo.svg">
   <img align="center" alt="Munhoz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Munhoz-PoweBi" height="30" width="40" 
+src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png">
 </div>
