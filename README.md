@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 - 🔭 Formado como Engenheiro de Software
-- 🌱 Estudando HTML, CSS e JAVASCRIPT
+- 🌱 Estudando HTML, CSS, JAVASCRIPT e DAX/PowerBi
 
 <div align="center">
   <a href="https://github.com/DouglasMunhoz">
